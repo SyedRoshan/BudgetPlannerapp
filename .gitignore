@@ -22,3 +22,6 @@ local.properties
 .gradle/
 .gradletasknamecache
 .m2
+
+# Android
+google-services.json
